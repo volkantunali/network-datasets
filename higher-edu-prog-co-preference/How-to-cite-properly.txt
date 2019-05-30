@@ -1,0 +1,27 @@
+﻿Bibtex	
+
+@araştırma makalesi { bitlisfen448039, journal = {Bitlis Eren Üniversitesi Fen Bilimleri Dergisi}, issn = {2147-3129}, eissn = {2147-3188}, address = {Bitlis Eren Üniversitesi}, year = {2019}, volume = {8}, pages = {176 - 186}, doi = {10.17798/bitlisfen.448039}, title = {Complex Network Analysis Approach to Examining Undergraduate Program Preferences}, key = {cite}, author = {TUNALI, Volkan and GÜVENOĞLU, Erdal} }
+
+APA	
+
+TUNALI, V , GÜVENOĞLU, E . (2019). Complex Network Analysis Approach to Examining Undergraduate Program Preferences. Bitlis Eren Üniversitesi Fen Bilimleri Dergisi, 8 (1), 176-186. DOI: 10.17798/bitlisfen.448039
+
+MLA	
+
+TUNALI, V , GÜVENOĞLU, E . "Complex Network Analysis Approach to Examining Undergraduate Program Preferences". Bitlis Eren Üniversitesi Fen Bilimleri Dergisi 8 (2019): 176-186 <http://dergipark.gov.tr/bitlisfen/issue/43819/448039>
+
+Chicago	
+
+TUNALI, V , GÜVENOĞLU, E . "Complex Network Analysis Approach to Examining Undergraduate Program Preferences". Bitlis Eren Üniversitesi Fen Bilimleri Dergisi 8 (2019): 176-186
+
+RIS	
+
+TY - JOUR T1 - Complex Network Analysis Approach to Examining Undergraduate Program Preferences AU - Volkan TUNALI , Erdal GÜVENOĞLU Y1 - 2019 PY - 2019 N1 - doi: 10.17798/bitlisfen.448039 DO - 10.17798/bitlisfen.448039 T2 - Bitlis Eren Üniversitesi Fen Bilimleri Dergisi JF - Journal JO - JOR SP - 176 EP - 186 VL - 8 IS - 1 SN - 2147-3129-2147-3188 M3 - doi: 10.17798/bitlisfen.448039 UR - http://dx.doi.org/10.17798/bitlisfen.448039 Y2 - 2018 ER -
+
+EndNote	
+
+%0 Bitlis Eren Üniversitesi Fen Bilimleri Dergisi Complex Network Analysis Approach to Examining Undergraduate Program Preferences %A Volkan TUNALI , Erdal GÜVENOĞLU %T Complex Network Analysis Approach to Examining Undergraduate Program Preferences %D 2019 %J Bitlis Eren Üniversitesi Fen Bilimleri Dergisi %P 2147-3129-2147-3188 %V 8 %N 1 %R doi: 10.17798/bitlisfen.448039 %U 10.17798/bitlisfen.448039
+
+ISNAD	
+
+TUNALI, Volkan , GÜVENOĞLU, Erdal . "Yükseköğretim Programı Tercihlerinin İncelenmesinde Karmaşık Ağ Analizi Yaklaşımı". Bitlis Eren Üniversitesi Fen Bilimleri Dergisi 8 / 1 (Mart 2019): 176-186. http://dx.doi.org/10.17798/bitlisfen.448039
